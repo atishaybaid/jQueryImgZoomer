@@ -1,0 +1,15 @@
+#image{
+    width: 400px;
+    display: block;
+}
+
+#view{
+    position: relative;
+    overflow: hidden;
+}
+
+#zoom-marker{
+    border: 1px solid black;
+    background-color: transparent;
+    cursor: pointer;
+}
